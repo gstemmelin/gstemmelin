@@ -1,8 +1,6 @@
 ### Hi, I'm Guillermo 👋
 
 - 🖥️ 3 months of HTML & CSS programming experience.
-> [!NOTE]
-> Currently improving knowledge on html and css lenguage.
 
 <!--
 **gstemmelin/gstemmelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
